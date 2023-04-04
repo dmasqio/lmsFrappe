@@ -23,6 +23,7 @@
     "@cypress/code-coverage": "^3",
     "@testing-library/cypress": "^8",
     "@testing-library/dom": "8.17.1",
-    "cypress-real-events": "^1.7.6"
+    "cypress-real-events": "^1.7.6",
+    "live-server": "^1.2.2"
   }
 }
